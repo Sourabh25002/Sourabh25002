@@ -7,9 +7,9 @@
 # 💼 Projects that Define Me:
 
 * 🌐 Connect Now: Engineered a robust social platform enabling post creation, likes, follows, user registration, and more, facilitating seamless social interaction.
-* 
+  
 * 🎵 MeloTunes: Crafted a personalized music player boasting user login, song management, playlists, artist discovery, song uploads, and seamless social sharing. Elevating your musical journey.
-* 
+  
 * 📝 Blog Website: Developed a dynamic platform for sharing insights, bridging the gap between knowledge and expression.
 
 # 🌟 Why My Work Matters:
@@ -19,7 +19,7 @@
 # 🏆 Achievements:
 
 * • Secured a commendable global rank of 527 in TCS CodeVita 11 Round 2, showcasing strong coding skills and problem-solving abilities.
-* 
+  
 * • Secured 3rd position in the Software Category at the Internal Smart India Hackathon 2023, outperforming 35 teams and 200+ students. Demonstrated exceptional software development skills and effective teamwork.
 
 <!--
