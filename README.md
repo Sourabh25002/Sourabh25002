@@ -1,4 +1,4 @@
-# 👋Hello there! I'm Sourabh Kumar, a dedicated computer science and engineering enthusiast studying at Rajkiya Engineering College Sonbhadra in Uttar Pradesh. My tech journey sparked with inspiration and has been ablaze ever since. Set to graduate in 2024, I'm committed to reshaping the digital horizon with innovation and creativity.
+👋Hello there! I'm Sourabh Kumar, a dedicated computer science and engineering enthusiast studying at Rajkiya Engineering College Sonbhadra in Uttar Pradesh. My tech journey sparked with inspiration and has been ablaze ever since. Set to graduate in 2024, I'm committed to reshaping the digital horizon with innovation and creativity.
 
 # 🚀 What I Do:
 * With a solid foundation in data structures and algorithms (DSA), I tackle complex problems with precision and efficiency. Transitioning seamlessly, my expertise extends to full-stack web development, particularly in the dynamic PERN (PostgreSQL, Express, React, Node.js) and MERN (MongoDB, Express, React, Node.js) stacks. Crafting user-centric web applications is where I excel, merging DSA proficiency with creative coding to bring innovative solutions to life.
