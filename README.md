@@ -2,19 +2,19 @@
 
 # 🚀 What I Do: 
 
-* With a solid foundation in data structures and algorithms (DSA), I tackle complex problems with precision and efficiency. Transitioning seamlessly, my expertise extends to full-stack web development, particularly in the dynamic PERN (PostgreSQL, Express, React, Node.js) and MERN (MongoDB, Express, React, Node.js) stacks. Crafting user-centric web applications is where I excel, merging DSA proficiency with creative coding to bring innovative solutions to life.
+With a solid foundation in data structures and algorithms (DSA), I tackle complex problems with precision and efficiency. Transitioning seamlessly, my expertise extends to full-stack web development, particularly in the dynamic PERN (PostgreSQL, Express, React, Node.js) and MERN (MongoDB, Express, React, Node.js) stacks. Crafting user-centric web applications is where I excel, merging DSA proficiency with creative coding to bring innovative solutions to life.
 
 # 💼 Projects that Define Me:
 
-* 🌐 Connect Now: Engineered a robust social platform enabling post creation, likes, follows, user registration, and more, facilitating seamless social interaction.
+🌐 Connect Now: Engineered a robust social platform enabling post creation, likes, follows, user registration, and more, facilitating seamless social interaction.
   
-* 🎵 MeloTunes: Crafted a personalized music player boasting user login, song management, playlists, artist discovery, song uploads, and seamless social sharing. Elevating your musical journey.
+🎵 MeloTunes: Crafted a personalized music player boasting user login, song management, playlists, artist discovery, song uploads, and seamless social sharing. Elevating your musical journey.
   
-* 📝 Blog Website: Developed a dynamic platform for sharing insights, bridging the gap between knowledge and expression.
+📝 Blog Website: Developed a dynamic platform for sharing insights, bridging the gap between knowledge and expression.
 
 # 🌟 Why My Work Matters:
 
-* By combining my expertise in data structures, algorithms, and full-stack web development, I strive to create impactful solutions that enhance user experiences and solve real-world problems. My work matters because it empowers individuals, fosters connections, and drives innovation in the digital landscape.
+By combining my expertise in data structures, algorithms, and full-stack web development, I strive to create impactful solutions that enhance user experiences and solve real-world problems. My work matters because it empowers individuals, fosters connections, and drives innovation in the digital landscape.
 
 # 🏆 Achievements:
 
