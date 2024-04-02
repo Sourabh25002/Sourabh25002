@@ -18,9 +18,9 @@
 
 # 🏆 Achievements:
 
-* • Secured a commendable global rank of 527 in TCS CodeVita 11 Round 2, showcasing strong coding skills and problem-solving abilities.
+* Secured a commendable global rank of 527 in TCS CodeVita 11 Round 2, showcasing strong coding skills and problem-solving abilities.
   
-* • Secured 3rd position in the Software Category at the Internal Smart India Hackathon 2023, outperforming 35 teams and 200+ students. Demonstrated exceptional software development skills and effective teamwork.
+* Secured 3rd position in the Software Category at the Internal Smart India Hackathon 2023, outperforming 35 teams and 200+ students. Demonstrated exceptional software development skills and effective teamwork.
 
 <!--
 **Sourabh25002/Sourabh25002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
