@@ -12,7 +12,6 @@ With a solid foundation in data structures and algorithms (DSA), I tackle comple
 * Built scalable backend systems using Node.js.
 * Integrated frontend and backend components to ensure seamless functionality.
 * Collaborated with design and product teams to translate requirements into technical solutions.
-* Reported directly to the Head of IT Development.
 
 # 💼 Projects that Define Me:
 
