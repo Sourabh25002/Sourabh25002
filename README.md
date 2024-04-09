@@ -5,13 +5,12 @@
 With a solid foundation in data structures and algorithms (DSA), I tackle complex problems with precision and efficiency. Transitioning seamlessly, my expertise extends to full-stack web development, particularly in the dynamic PERN (PostgreSQL, Express, React, Node.js) and MERN (MongoDB, Express, React, Node.js) stacks. Crafting user-centric web applications is where I excel, merging DSA proficiency with creative coding to bring innovative solutions to life.
 
 # 💼 Work Experience:
-🚀 Full Stack Developer Intern at Reachify (April 2024 - Present):
+ Full Stack Developer Intern at Reachify (April 2024 - Present):
 
-* Developing user-facing features using HTML, CSS, and JavaScript for web applications.
-* Designed and implemented responsive and intuitive user interfaces.
-* Building scalable backend systems using Node.js.
-* Integrated frontend and backend components to ensure seamless functionality.
-* Collaborated with design and product teams to translate requirements into technical solutions.
+* Leading the development of a unified chat platform, aggregating chats from WhatsApp, Instagram, LinkedIn, and more.
+* Utilizing HTML, CSS, JavaScript, and Node.js for seamless integration with diverse chat APIs.
+* Implementing robust security measures and collaborating across teams to ensure a cohesive user experience.
+* Agile development approach for rapid iteration and continuous enhancement of features.
 
 # 💼 Projects that Define Me:
 
