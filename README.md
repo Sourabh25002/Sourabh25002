@@ -7,9 +7,9 @@ With a solid foundation in data structures and algorithms (DSA), I tackle comple
 # 💼 Work Experience:
 🚀 Full Stack Developer Intern at Reachify (April 2024 - Present):
 
-* Developed user-facing features using HTML, CSS, and JavaScript for web applications.
+* Developing user-facing features using HTML, CSS, and JavaScript for web applications.
 * Designed and implemented responsive and intuitive user interfaces.
-* Built scalable backend systems using Node.js.
+* Building scalable backend systems using Node.js.
 * Integrated frontend and backend components to ensure seamless functionality.
 * Collaborated with design and product teams to translate requirements into technical solutions.
 
