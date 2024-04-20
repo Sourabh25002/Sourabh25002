@@ -7,11 +7,10 @@ With a solid foundation in data structures and algorithms (DSA), I tackle comple
 # 💼 Work Experience:
  Full Stack Developer Intern at Reachify (April 2024 - Present):
 
-* Leading the development of a unified chat platform, aggregating chats from WhatsApp, Instagram, LinkedIn, and more.
-* Utilizing HTML, CSS, JavaScript, and Node.js for seamless integration with diverse chat APIs.
-* Implementing robust security measures and collaborating across teams to ensure a cohesive user experience.
-* Agile development approach for rapid iteration and continuous enhancement of features.
-
+* Orchestrated backend API development for Instagram, WhatsApp, Messenger and Slack integration within a CRM platform, revolutionizing social media management for businesses.
+* Conducted comprehensive research and implemented official APIs to engineer seamless and secure cross-platform functionalities, elevating user experience.
+* Drove pivotal advancements in CRM project by delivering essential backend solutions, showcasing prowess in full stack development and agile methodologies.
+  
 # 💼 Projects that Define Me:
 
 🌐 Connect Now: Engineered a robust social platform enabling post creation, likes, follows, user registration, and more, facilitating seamless social interaction.
