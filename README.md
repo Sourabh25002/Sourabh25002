@@ -5,11 +5,11 @@
 With a solid foundation in data structures and algorithms (DSA), I tackle complex problems with precision and efficiency. Transitioning seamlessly, my expertise extends to full-stack web development, particularly in the dynamic PERN (PostgreSQL, Express, React, Node.js) and MERN (MongoDB, Express, React, Node.js) stacks. Crafting user-centric web applications is where I excel, merging DSA proficiency with creative coding to bring innovative solutions to life.
 
 # 💼 Work Experience:
- Full Stack Developer Intern at Reachify (April 2024 - Present):
+ Full Stack Developer Intern at Reachify (April 2024 - June 2024):
 
-* Orchestrated backend API development for Instagram, WhatsApp, Messenger and Slack integration within a CRM platform, revolutionizing social media management for businesses.
-* Conducted comprehensive research and implemented official APIs to engineer seamless and secure cross-platform functionalities, elevating user experience.
-* Drove pivotal advancements in CRM project by delivering essential backend solutions, showcasing prowess in full stack development and agile methodologies.
+* Engineered a CRM software that streamlined social media management, significantly enhancing productivity.
+* Designed and deployed custom APIs for Instagram, Teams, and Slack, enabling efficient CRM communication.
+* Developed a lead extractor utilizing Google Maps and LinkedIn Sales Navigator APIs, alongside a custom web scraper, achieving a 3x reduction in processing time to under 20 seconds.
   
 # 💼 Projects that Define Me:
 
@@ -25,9 +25,11 @@ By combining my expertise in data structures, algorithms, and full-stack web dev
 
 # 🏆 Achievements:
 
-* Secured a commendable global rank of 527 in TCS CodeVita 11 Round 2, showcasing strong coding skills and problem-solving abilities.
+* Achieved a Global rank of 527 in TCS CodeVita 11, demonstrating strong coding and problem-solving skills.
   
-* Secured 3rd place at the Internal Smart India Hackathon 2023 in the Software Category, surpassing 35 teams and 200+ students. Developed a pioneering fully automated parking system from scratch, highlighting exceptional teamwork and software skills.
+* Secured 3rd place in Software Category at 2023 Internal Smart India Hackathon.
+
+* Presented my innovative project, a fully automated urban parking solution, at statewide Startup Showcase Meet.
 
 <!--
 **Sourabh25002/Sourabh25002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
