@@ -7,8 +7,8 @@ With a solid foundation in data structures and algorithms (DSA), I tackle comple
 # 💼 Work Experience:
  Full Stack Developer Intern at Reachify (April 2024 - June 2024):
 
-* Engineered a CRM software that streamlined social media management, significantly enhancing productivity.
-* Designed and deployed custom APIs for Instagram, Teams, and Slack, enabling efficient CRM communication.
+* Engineered a CRM software that streamlined social media management, boosting business efficiency by 25-30%.
+* Designed and deployed 15+ custom APIs for Instagram, Teams, and Slack, enhancing CRM communication
 * Developed a lead extractor utilizing Google Maps and LinkedIn Sales Navigator APIs, alongside a custom web scraper, achieving a 3x reduction in processing time to under 20 seconds.
   
 # 💼 Projects that Define Me:
