@@ -1,8 +1,9 @@
 # 👋 Introduction:
 
-I'm Sourabh Kumar, a Computer Science and Engineering graduate from Dr. A. P. J. Abdul Kalam Technical University. I am focused on building scalable and efficient software solutions and am ready to contribute to the tech industry.
+I'm Sourabh Kumar, a 2024 Computer Science and Engineering graduate from Dr. A. P. J. Abdul Kalam Technical University. With over 1 year of experience in the industry, I am focused on building scalable and efficient software solutions and am ready to contribute to the tech industry.
 
 # 🚀 Professional Focus:
+
 My expertise lies in data structures and algorithms, having solved over 400 complex problems using C++ and Java. I have hands-on experience in full-stack web development, particularly with PostgreSQL, Express.js, React.js, Node.js, and MongoDB stacks. I specialize in developing web applications that are secure, responsive, and user-friendly, leveraging my skills in both backend and frontend technologies.
 
 # 💼 Work Experience:
