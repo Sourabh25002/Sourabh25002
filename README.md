@@ -8,8 +8,14 @@ With a solid foundation in data structures and algorithms (DSA), I tackle comple
  Full Stack Developer Intern at Reachify (April 2024 - June 2024):
 
 * Engineered a CRM software that streamlined social media management, boosting business efficiency by 25-30%.
-* Designed and deployed 15+ custom APIs for Instagram, Teams, and Slack, enhancing CRM communication
-* Developed a lead extractor utilizing Google Maps and LinkedIn Sales Navigator APIs, alongside a custom web scraper, achieving a 3x reduction in processing time to under 20 seconds.
+* Designed and deployed 15+ custom APIs for various social media platforms, enhancing CRM communication.
+* Designed, built, and optimized a lead extractor, reducing processing time by 3x to under 20 seconds.
+
+ Full Stack Developer at Incubation Cell- REC Sonbhadra (May 2023 - April 2023):
+
+* Led a team of 6 to develop an automated parking management system, increasing revenue by 20%.
+* Real-time spot availability using maps, saving 15-20 minutes, and real-time data collection with IoT devices.
+* Secured spot bookings with cashless payments via a payment gateway and OTP verification for security.
   
 # 💼 Projects that Define Me:
 
@@ -19,17 +25,22 @@ With a solid foundation in data structures and algorithms (DSA), I tackle comple
   
 📝 Blog Website: Developed a dynamic platform for sharing insights, bridging the gap between knowledge and expression.
 
-# 🌟 Why My Work Matters:
+# 💻 Skills:
 
-By combining my expertise in data structures, algorithms, and full-stack web development, I strive to create impactful solutions that enhance user experiences and solve real-world problems. My work matters because it empowers individuals, fosters connections, and drives innovation in the digital landscape.
+* Languages: C/C++, Java, JavaScript, Typescript, SQL, Python, HTML, CSS
+* CourseWork: Data Structures and Algorithms, Operating System, Computer Networks, OOPS, DBMS
+* Development Tools: ReactJS, NodeJS, ExpressJS, PostgreSQL, MySQL, MongoDB, Payment Gateway Integration, Git/GitHub, Linux
+* Soft Skills : Problem Solving, Teamwork, Self-Motivation, Communication Skills, Time Management
 
 # 🏆 Achievements:
 
-* Achieved a Global rank of 527 in TCS CodeVita 11, demonstrating strong coding and problem-solving skills.
-  
-* Secured 3rd place in Software Category at 2023 Internal Smart India Hackathon.
+* Solved 400+ LeetCode problems, demonstrating expertise in problem-solving and data structures and algorithms.
 
-* Presented my innovative project, a fully automated urban parking solution, at statewide Startup Showcase Meet.
+* Ranked 527 globally out of 140,000+ participants from over 50+ countries in TCS CodeVita 11.
+  
+* Secured 3rd place at 2023 Internal Smart India Hackathon, competing against 50+ teams.
+
+* Presented my parking automation project at Startup Showcase Meet with 300+ participating startups.
 
 <!--
 **Sourabh25002/Sourabh25002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
