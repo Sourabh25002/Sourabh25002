@@ -1,8 +1,9 @@
-👋Hello there! I'm Sourabh Kumar, a dedicated computer science and engineering enthusiast studying at Rajkiya Engineering College Sonbhadra in Uttar Pradesh. My tech journey sparked with inspiration and has been ablaze ever since. Set to graduate in 2024, I'm committed to reshaping the digital horizon with innovation and creativity.
+# 👋 Introduction:
 
-# 🚀 What I Do: 
+I'm Sourabh Kumar, a Computer Science and Engineering graduate from Dr. A. P. J. Abdul Kalam Technical University. I am focused on building scalable and efficient software solutions and am ready to contribute to the tech industry.
 
-With a solid foundation in data structures and algorithms (DSA), I tackle complex problems with precision and efficiency. Transitioning seamlessly, my expertise extends to full-stack web development, particularly in the dynamic PERN (PostgreSQL, Express, React, Node.js) and MERN (MongoDB, Express, React, Node.js) stacks. Crafting user-centric web applications is where I excel, merging DSA proficiency with creative coding to bring innovative solutions to life.
+# 🚀 Professional Focus:
+My expertise lies in data structures and algorithms, having solved over 400 complex problems using C++ and Java. I have hands-on experience in full-stack web development, particularly with PostgreSQL, Express.js, React.js, Node.js, and MongoDB stacks. I specialize in developing web applications that are secure, responsive, and user-friendly, leveraging my skills in both backend and frontend technologies.
 
 # 💼 Work Experience:
  Full Stack Developer Intern at Reachify (April 2024 - June 2024):
