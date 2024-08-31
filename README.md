@@ -19,11 +19,13 @@ My expertise lies in data structures and algorithms, having solved over 400 comp
 * Real-time spot availability using maps, saving 15-20 minutes, and real-time data collection with IoT devices.
 * Secured spot bookings with cashless payments via a payment gateway and OTP verification for security.
   
-# 💼 Projects that Define Me:
+# 💼 Projects:
 
 🌐 Connect Now: Engineered a robust social platform enabling post creation, likes, follows, user registration, and more, facilitating seamless social interaction.
   
 🎵 MeloTunes: Crafted a personalized music player boasting user login, song management, playlists, artist discovery, song uploads, and seamless social sharing. Elevating your musical journey.
+
+🛒 TrendHub: Created a feature-rich e-commerce platform with user authentication, wishlist, cart management, and order tracking, offering a seamless online shopping experience.
   
 📝 Blog Website: Developed a dynamic platform for sharing insights, bridging the gap between knowledge and expression.
 
