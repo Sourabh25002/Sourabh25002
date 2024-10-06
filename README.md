@@ -38,7 +38,9 @@ My expertise lies in data structures and algorithms, having solved over 400 comp
 
 # 🏆 Achievements:
 
-* Solved 400+ LeetCode problems, demonstrating expertise in problem-solving and data structures and algorithms.
+* Ranked 855th out of 34,628 participants in LeetCode Weekly Contest 418.
+
+* Solved 450+ LeetCode problems, demonstrating expertise in problem-solving and data structures and algorithms.
 
 * Ranked 527 globally out of 140,000+ participants from over 50+ countries in TCS CodeVita 11.
   
