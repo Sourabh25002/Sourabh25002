@@ -1,6 +1,6 @@
 # 👋 Introduction:
 
-I'm Sourabh Kumar, a 2024 Computer Science and Engineering graduate from Dr. A. P. J. Abdul Kalam Technical University.With more than a year of experience in the technology field, I am focused on building scalable and efficient software solutions and am ready to contribute to the tech industry.
+I'm Sourabh Kumar, a 2024 Computer Science and Engineering graduate from Dr. A. P. J. Abdul Kalam Technical University. With more than a year of experience in the technology field, I am focused on building scalable and efficient software solutions and am ready to contribute to the tech industry.
 
 # 🚀 Professional Focus:
 
