@@ -22,7 +22,7 @@ My expertise lies in data structures and algorithms, having solved over 500 comp
 # 🔬 Research Work:
 
 OPTIMIZING URBAN PARKING MANAGEMENT
-* Presented at the Second IEEE International Conference - 2024, submitted for publication to IEEE (under evaluation).
+* I presented my research work at the Second IEEE International Conference 2024, which has been submitted for publication to IEEE and is currently under evaluation.
   
 # 💼 Projects:
 
