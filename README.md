@@ -13,7 +13,7 @@ My expertise lies in data structures and algorithms, having solved over 500 comp
 * Designed and deployed 15+ custom APIs for various social media platforms, enhancing CRM communication.
 * Designed, built, and optimized a lead extractor, reducing processing time by 3x to under 20 seconds.
 
- Full Stack Developer at Incubation Cell- REC Sonbhadra (July 2023 - April 2024):
+ Full Stack Developer at REC Sonbhadra (July 2023 - April 2024):
 
 * Led a team of 6 to develop and optimize a parking solution, aiming to increase revenue by 20% and reduce carbon emissions.
 * Real-time spot availability saves users 15-20 minutes, reduces traffic congestion by 10%, and improves system monitoring by 40% through IoT data.
