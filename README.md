@@ -1,6 +1,6 @@
 # 👋 Introduction:
 
-I'm Sourabh Kumar, a 2024 Computer Science and Engineering graduate from Dr. A. P. J. Abdul Kalam Technical University. With over 1 year of experience in the industry, I am focused on building scalable and efficient software solutions and am ready to contribute to the tech industry.
+I'm Sourabh Kumar, a 2024 Computer Science and Engineering graduate from Dr. A. P. J. Abdul Kalam Technical University.With more than a year of experience in the technology field, I am focused on building scalable and efficient software solutions and am ready to contribute to the tech industry.
 
 # 🚀 Professional Focus:
 
@@ -19,7 +19,7 @@ My expertise lies in data structures and algorithms, having solved over 500 comp
 * Real-time spot availability saves users 15-20 minutes, reduces traffic congestion by 10%, and improves system monitoring by 40% through IoT data.
 * OTP-based gate automation ensures security, while cashless payments via a gateway enable 30% faster checkout and reduced wait times.
 
-# 💻 Skills:
+# 🔬 Research Work:
 
 OPTIMIZING URBAN PARKING MANAGEMENT
 * Presented at the Second IEEE International Conference - 2024, submitted for publication to IEEE (under evaluation).
