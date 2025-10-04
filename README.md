@@ -1,28 +1,25 @@
 # 👋 Introduction:
 
-I'm Sourabh Kumar, a 2024 Computer Science and Engineering graduate from Dr. A. P. J. Abdul Kalam Technical University. With more than a year of experience in the technology field, I am focused on building scalable and efficient software solutions and am ready to contribute to the tech industry.
-
-# 🚀 Professional Focus:
-
-My expertise lies in data structures and algorithms, having solved over 500 complex problems using C++ and Java. I have hands-on experience in full-stack web development, particularly with PostgreSQL, Express.js, React.js, Node.js, and MongoDB stacks. I specialize in developing web applications that are secure, responsive, and user-friendly, leveraging my skills in both backend and frontend technologies.
+Full-stack software developer with 1+ years of experience and a strong foundation in data structures, algorithms, and scalable systems. Developed production-ready platforms from scratch, including a full-stack stock market MVP covering 1,900+ London Stock Exchange companies with secure authentication, real-time updates, and backend recommendation engines.
 
 # 💼 Work Experience:
- Full Stack Developer Intern at Reachify (April 2024 - June 2024):
+ Full Stack Developer at IT HEALTHCARE SOLUTIONS (Dec. 2024 - Sept 2025):
+* Sole engineer, collaborated with the founderto build a customer-centric full-stack stock market MVP from scratch in 5 months, implementing 10+ features and scaling it into a production-ready platform.
+* Engineered the platform with React, Node.js/Express, PostgreSQL, and AWS; implemented secure authentication (JWT, Google Login) and a dashboard handling 1,900+ London Stock Exchange(LSE) companies across 50+ metrics.
+* Integrated Finnhub API for LSE, developed a backend stock recommendation engine, developed stock search with detailed pages, and implemented real-time stock data updates via Socket.io to enable investor decisions.
+  
+ Full Stack Developer Intern at REACHIFY (April 2024 - June 2024):
+* Developed core backend modules for a MERN-based CRM platform with API integrations (Instagram, WhatsApp) and data management, improving social media workflows and boosting business efficiency by 25–30%.
+* Built the company landing page, enhancing brand presence and engagement.
+* Engineered a Python-based lead extractor, accelerating lead processing 3× to under 20 seconds and enhancing overall lead acquisition efficiency.
+  
+# 🔬 IEEE XPLORE PUBLISHED RESEARCH:
 
-* Engineered a CRM software that streamlined social media management, boosting business efficiency by 25-30%.
-* Designed and deployed 15+ custom APIs for various social media platforms, enhancing CRM communication.
-* Designed, built, and optimized a lead extractor, reducing processing time by 3x to under 20 seconds.
-
- Full Stack Developer at REC Sonbhadra (July 2023 - April 2024):
-
-* Led a team of 6 to develop and optimize a parking solution, aiming to increase revenue by 20% and reduce carbon emissions.
-* Real-time spot availability saves users 15-20 minutes, reduces traffic congestion by 10%, and improves system monitoring by 40% through IoT data.
-* OTP-based gate automation ensures security, while cashless payments via a gateway enable 30% faster checkout and reduced wait times.
-
-# 🔬 Research Work:
-
-OPTIMIZING URBAN PARKING MANAGEMENT
-* I presented my research work at the Second IEEE International Conference 2024, which has been submitted for publication to IEEE and is currently under evaluation.
+ Full Stack Developer at RAJKIYA ENGINEERING COLLEGE (July 2024 - Nov. 2024):
+* Presented research paper at the 2nd IEEE International Conference and published peer-reviewed paperin IEEE Xplore.
+* Developed a fully automated smart parking system with real-time spot , OTP-based access, and cashless payments, boosting mobility and revenue.
+* Built full-stack software (React, Node.js/Express, MongoDB) and hardware (ESP32, IR & ultrasonic sensors, Arduino IDE); integrated both forlow-latency occupancy sync with OTP (Twilio) and cashless payments (Razorpay).
+* Achieved 15–20 min faster spot finding, 10% less congestion, and 30% quicker checkout through dual-sensorfusion and overtime billing.
   
 # 💼 Projects:
 
