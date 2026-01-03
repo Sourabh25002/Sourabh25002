@@ -3,50 +3,45 @@
 Full-stack software developer with 1+ years of experience and a strong foundation in data structures, algorithms, and scalable systems. Developed production-ready platforms from scratch, including a full-stack stock market MVP covering 1,900+ London Stock Exchange companies with secure authentication, real-time updates, and backend recommendation engines.
 
 # Work Experience:
-KineticAI | Remote (Texas, U.S) | Oct. 2025 - Dec. 2025
-Full Stack Developer | Next.js, Node.js, Express.js 
+KINETIC AI | Full Stack Developer | Remote (Texas, U.S) | Oct. 2025 - Dec. 2025 
 * Built a policy-as-code governance engine for REST APIs that ingests OpenAPI specs, runs 29 rules across key specification areas, and outputs violation reports plus a configured weighted compliance score via a review dashboard.
 * Integrated checks into CI/CD to validate every push/PR and block deploys on critical violations or score failures.
 * Validated on 18 OpenAPI spec files from multiple companies (e.g., Amazon, Adobe), covering 1,000+ APIs, in ~8s per run.
 
- Full Stack Developer at IT HEALTHCARE SOLUTIONS (Dec. 2024 - Sept 2025):
-* Sole engineer, collaborated with the founderto build a customer-centric full-stack stock market MVP from scratch in 5 months, implementing 10+ features and scaling it into a production-ready platform.
-* Engineered the platform with React, Node.js/Express, PostgreSQL, and AWS; implemented secure authentication (JWT, Google Login) and a dashboard handling 1,900+ London Stock Exchange(LSE) companies across 50+ metrics.
+IT HEALTHCARE SOLUTIONS | Full Stack Developer | Remote (London, U.K) |  (Dec. 2024 - Sept 2025)
+* Sole engineer, collaborated with the founder to build a customer-centric full-stack stock market MVP from scratch in 5 months, implementing 10+ features and scaling it into a production-ready platform.
+* Implemented auth & session handling and built a dashboard covering 1,900+ LSE companies across 50+ metrics.
 * Integrated Finnhub API for LSE, developed a backend stock recommendation engine, developed stock search with detailed pages, and implemented real-time stock data updates via Socket.io to enable investor decisions.
+
+PARK-EZ | Full Stack Developer | Sonbhadra, U.P |  (July 2024 – Nov. 2024)
+* Developed a fully automated smart parking system with real-time spot availability, OTP-based entry/exit, and cashless payments, improving utilization and reducing on-site manual operations.
+* Integrated hardware and software by connecting ESP32-based IR/ultrasonic sensors to the backend for near real-time occupancy synchronization, with OTP-based access via Twilio and seamless cashless payments through Razorpay.
+* Achieved 15–20 min faster spot finding, 10% less congestion, and 30% quicker checkout through dual-sensor fusion and overtime billing; research recognized and published by IEEE.
   
- Full Stack Developer Intern at REACHIFY (April 2024 - June 2024):
-* Developed core backend modules for a MERN-based CRM platform with API integrations (Instagram, WhatsApp) and data management, improving social media workflows and boosting business efficiency by 25–30%.
+REACHIFY|  Full Stack Developer Intern | Delhi | (April 2024 - June 2024):
+* Built core backend for a CRM platform with webhook integrations (Instagram, Slack) to unify multi-channel messages in one inbox and streamline data management, boosting social workflows and efficiency by 25–30%.
 * Built the company landing page, enhancing brand presence and engagement.
 * Engineered a Python-based lead extractor, accelerating lead processing 3× to under 20 seconds and enhancing overall lead acquisition efficiency.
   
-# IEEE XPLORE PUBLISHED RESEARCH:
-
- Full Stack Developer at RAJKIYA ENGINEERING COLLEGE (July 2024 - Nov. 2024):
-* Presented research paper at the 2nd IEEE International Conference and published peer-reviewed paperin IEEE Xplore.
-* Developed a fully automated smart parking system with real-time spot , OTP-based access, and cashless payments, boosting mobility and revenue.
-* Built full-stack software (React, Node.js/Express, MongoDB) and hardware (ESP32, IR & ultrasonic sensors, Arduino IDE); integrated both forlow-latency occupancy sync with OTP (Twilio) and cashless payments (Razorpay).
-* Achieved 15–20 min faster spot finding, 10% less congestion, and 30% quicker checkout through dual-sensorfusion and overtime billing.
-  
 # Projects:
 
-🌐 Connect Now: Engineered a robust social platform enabling post creation, likes, follows, user registration, and more, facilitating seamless social interaction.
-  
-🎵 MeloTunes: Crafted a personalized music player boasting user login, song management, playlists, artist discovery, song uploads, and seamless social sharing. Elevating your musical journey.
-
-🛒 TrendHub: Created a feature-rich e-commerce platform with user authentication, wishlist, cart management, and order tracking, offering a seamless online shopping experience.
-  
-📝 Blog Website: Developed a dynamic platform for sharing insights, bridging the gap between knowledge and expression.
+Sky: Visual AI Workflow Automation Builder | GenAI, React.js, Node.js, Express.js, PostgreSQL                                                                               
+* Built a custom workflow automation and AI agent builder with a visual node canvas, enabling teams to connect webhooks, integrations, and AI steps to automate end-to-end processes.
+* Developed a secure, subscription-based web UI featuring a React Flow powered workflow editor with an extensible node library (manual/automated triggers, AI, social, HTTP, PDF), plus screens for workflows, credentials, and billing.
+* Implemented the backend with auth/session management (Better Auth), billing via Polar, background jobs using Inngest, Google Gemini integration for AI steps, and topological sorting to execute workflows in the correct order.
 
 # Skills:
 
-* Languages: C/C++, Java, JavaScript, Typescript, SQL, Python, HTML, CSS
+* Languages: C/C++,  JavaScript, Typescript, Java, Python, SQL
 * CourseWork: Data Structures and Algorithms, Operating System, Computer Networks, OOPS, DBMS
-* Development Tools: ReactJS, NodeJS, ExpressJS, PostgreSQL, MySQL, MongoDB, Docker, AmazonWebServices (AWS), Payment Gateway Integration, Git/GitHub, Linux
+* Development Tools: HTML, CSS, React.js, Next.js, Node.js, Express.js, PostgreSQL, MongoDB, GenerativeAI, LLMs, RAG, Hugging Face, LangChain, LangGraph, VectorDB, Docker, Amazon Web Services (AWS), CI/CD, Git/GitHub, Inngest, Linux
 * Soft Skills : Problem Solving, Teamwork, Self-Motivation, Communication, Time Management
 
 # Achievements:
 
 * Ranked 782th out of 34,628 participants in LeetCode Weekly Contest 418.
+
+* Presented research paper at the 2nd IEEE International Conference and published peer-reviewed paper in IEEE Xplore.
   
 * Participated in 40+ LeetCode contests with a max rating of 1650+.
 
