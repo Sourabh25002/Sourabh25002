@@ -3,6 +3,12 @@
 Full-stack software developer with 1+ years of experience and a strong foundation in data structures, algorithms, and scalable systems. Developed production-ready platforms from scratch, including a full-stack stock market MVP covering 1,900+ London Stock Exchange companies with secure authentication, real-time updates, and backend recommendation engines.
 
 # Work Experience:
+KineticAI | Remote (Texas, U.S) | Oct. 2025 - Dec. 2025
+Full Stack Developer | Next.js, Node.js, Express.js 
+* Built a policy-as-code governance engine for REST APIs that ingests OpenAPI specs, runs 29 rules across key specification areas, and outputs violation reports plus a configured weighted compliance score via a review dashboard.
+* Integrated checks into CI/CD to validate every push/PR and block deploys on critical violations or score failures.
+* Validated on 18 OpenAPI spec files from multiple companies (e.g., Amazon, Adobe), covering 1,000+ APIs, in ~8s per run.
+
  Full Stack Developer at IT HEALTHCARE SOLUTIONS (Dec. 2024 - Sept 2025):
 * Sole engineer, collaborated with the founderto build a customer-centric full-stack stock market MVP from scratch in 5 months, implementing 10+ features and scaling it into a production-ready platform.
 * Engineered the platform with React, Node.js/Express, PostgreSQL, and AWS; implemented secure authentication (JWT, Google Login) and a dashboard handling 1,900+ London Stock Exchange(LSE) companies across 50+ metrics.
