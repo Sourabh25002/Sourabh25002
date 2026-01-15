@@ -6,7 +6,7 @@ Full-stack software developer with 1+ years of experience and a strong foundatio
 KINETIC AI | Full Stack Developer | Remote (Texas, U.S) | Oct. 2025 - Dec. 2025 
 * Built a policy-as-code governance engine for REST APIs that ingests OpenAPI specs, runs 29 rules across key specification areas, and outputs violation reports plus a configured weighted compliance score via a review dashboard.
 * Integrated checks into CI/CD to validate every push/PR and block deploys on critical violations or score failures.
-* Validated on 18 OpenAPI spec files from multiple companies (e.g., Amazon, Adobe), covering 1,000+ APIs, in ~8s per run.
+* Achieved a ~13ms total runtime while validating 1,000+ APIs across 18 OpenAPI spec files (including Amazon, Adobe).
 
 IT HEALTHCARE SOLUTIONS | Full Stack Developer | Remote (London, U.K) |  (Dec. 2024 - Sept 2025)
 * Sole engineer, collaborated with the founder to build a customer-centric full-stack stock market MVP from scratch in 5 months, implementing 10+ features and scaling it into a production-ready platform.
