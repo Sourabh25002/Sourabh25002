@@ -3,7 +3,7 @@
 Full-stack software developer with 1+ years of experience and a strong foundation in data structures, algorithms, and scalable systems. Developed production-ready platforms from scratch, including a full-stack stock market MVP covering 1,900+ London Stock Exchange companies with secure authentication, real-time updates, and backend recommendation engines.
 
 # Work Experience:
-**AUM CAPITAL MARKET PVT. LTD.**
+### AUM CAPITAL MARKET PVT. LTD.
 **Full Stack Developer** | *React.js, Node.js, Express.js, MySQL, ChromaDB, AWS*  
 <sub>Remote (Kolkata, India) | Feb. 2026 – Present</sub>
 * Developed features for AUM Sampann, a digital wealth platform managing ₹10k+ Cr in client assets; also built the internal admin portal with role-based access (Super Admin, Admin, Partner, RM), client assignment, scoped dashboards, and family-member portfolio sharing.
@@ -23,14 +23,14 @@ Full-stack software developer with 1+ years of experience and a strong foundatio
 ### IT HEALTHCARE SOLUTIONS
 **Full Stack Developer** | *React.js, Node.js, Express.js, Socket.io, Finnhub API*  
 <sub>Remote (London, U.K) | Dec. 2024 – Sept. 2025</sub>
-* Sole engineer, collaborated with the founder to build a customer-centric full-stack stock market MVP from scratch in 5 months, implementing 10+ features and scaling it into a production-ready platform.
+* Founding engineer, collaborated with the founder to build a customer-centric full-stack stock market MVP from scratch in 5 months, implementing 10+ features and scaling it into a production-ready platform.
 * Implemented auth & session handling and built a dashboard covering 1,900+ LSE companies across 50+ metrics.
 * Integrated Finnhub API for LSE, developed a backend stock recommendation engine, developed stock search with detailed pages, and implemented real-time stock data updates via Socket.io to enable investor decisions.
 
 
 ### PARK-EZ
 **Full Stack Developer** | *React.js, Node.js, ESP32, C++, Twilio, Razorpay*  
-<sub>Sonbhadra, U.P | July 2024 – Nov. 2024</sub>
+<sub>Sonbhadra, India | July 2024 – Nov. 2024</sub>
 * Developed a fully automated smart parking system with real-time spot availability, OTP-based entry/exit, and cashless payments, improving utilization and reducing on-site manual operations.
 * Integrated hardware and software by connecting ESP32-based IR/ultrasonic sensors to the backend for near real-time occupancy synchronization, with OTP-based access via Twilio and seamless cashless payments through Razorpay.
 * Achieved 15–20 min faster spot finding, 10% less congestion, and 30% quicker checkout through dual-sensor fusion and overtime billing; research recognized and published by IEEE.
@@ -52,10 +52,11 @@ Sky: Visual AI Workflow Automation Builder | GenAI, React.js, Node.js, Express.j
 
 # Skills:
 
-* Languages: C/C++,  JavaScript, Typescript, Java, Python, SQL
+* Languages: JavaScript, TypeScript, Python, C/C++, SQL
 * CourseWork: Data Structures and Algorithms, Operating System, Computer Networks, OOPS, DBMS
-* Development Tools: HTML, CSS, React.js, Next.js, Node.js, Express.js, PostgreSQL, MongoDB, GenerativeAI, LLMs, RAG, Hugging Face, LangChain, LangGraph, VectorDB, Docker, Amazon Web Services (AWS), CI/CD, Git/GitHub, Inngest, Linux
-* Soft Skills : Problem Solving, Teamwork, Self-Motivation, Communication, Time Management
+* Development Tools: HTML, CSS, React.js, Next.js, Node.js, Express.js, PostgreSQL, MongoDB, MySQL
+* AI Engineering: Generative AI, LLMs, RAG pipelines, Hugging Face, LangChain, LangGraph, VectorDB, ChromaDB
+* Cloud & Tools: Docker, Amazon Web Services (AWS), CI/CD, Git/GitHub, Inngest, Linux
 
 # Achievements:
 
