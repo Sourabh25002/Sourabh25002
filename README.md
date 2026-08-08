@@ -3,9 +3,9 @@
 Full-stack software developer with 1+ years of experience and a strong foundation in data structures, algorithms, and scalable systems. Developed production-ready platforms from scratch, including a full-stack stock market MVP covering 1,900+ London Stock Exchange companies with secure authentication, real-time updates, and backend recommendation engines.
 
 # Work Experience:
-AUM CAPITAL MARKET PVT. LTD. 
-Full Stack Developer | React.js, Node.js, Express.js, MySQL, ChromaDB, AWS 
-Remote (Kolkata, India) | Feb. 2026 - Present 
+## AUM Capital Market Pvt. Ltd.
+**Full Stack Developer** | *React.js, Node.js, Express.js, MySQL, ChromaDB, AWS*  
+*Remote (Kolkata, India) | Feb. 2026 – Present*
 * Developed features for AUM Sampann, a digital wealth platform managing ₹10k+ Cr in client assets; also built the internal admin portal with role-based access (Super Admin, Admin, Partner, RM), client assignment, scoped dashboards, and family-member portfolio sharing.
 * Built Asset Holdings to track portfolios across 12+ asset classes (MF, Stocks, FD, AIF, PMS, etc.) and valuable Reports covering invested vs current value, XIRR/CAGR, unrealised P&L, sector/cap allocation, and Nifty 50/Sensex benchmark comparison and more.
 * Integrated Cashfree for subscription; implemented Analytics features for MF/PMS overlap via bar charts & Venn diagrams; shipped AI Reports (chat-based portfolio summaries vs benchmarks) and AI Vault (upload docs and ask questions on statements/KYC files).
