@@ -4,29 +4,45 @@ Full-stack software developer with 1+ years of experience and a strong foundatio
 
 # Work Experience:
 ### AUM CAPITAL MARKET PVT. LTD.
-**Full Stack Developer** · *React.js, Node.js, Express.js, MySQL, ChromaDB, AWS*  
+**Full Stack Developer** | *React.js, Node.js, Express.js, MySQL, ChromaDB, AWS*  
 <sub>Remote (Kolkata, India) | Feb. 2026 – Present</sub>
 * Developed features for AUM Sampann, a digital wealth platform managing ₹10k+ Cr in client assets; also built the internal admin portal with role-based access (Super Admin, Admin, Partner, RM), client assignment, scoped dashboards, and family-member portfolio sharing.
 * Built Asset Holdings to track portfolios across 12+ asset classes (MF, Stocks, FD, AIF, PMS, etc.) and valuable Reports covering invested vs current value, XIRR/CAGR, unrealised P&L, sector/cap allocation, and Nifty 50/Sensex benchmark comparison and more.
 * Integrated Cashfree for subscription; implemented Analytics features for MF/PMS overlap via bar charts & Venn diagrams; shipped AI Reports (chat-based portfolio summaries vs benchmarks) and AI Vault (upload docs and ask questions on statements/KYC files).
 * Built Super Admin Ops Dashboard to track daily users, AUM, and investment activity by date range, plus listing pages for client buy/sell requests routed to assigned RM/Partner in admin; added impersonation so RMs/Partners can act as clients and execute orders.
-  
-KINETIC AI | Software Engineer (Freelance)  | Remote (Texas, U.S) | Oct. 2025 - Dec. 2025 
+
+---
+
+### KINETIC AI
+**Software Engineer (Freelance)** | *Node.js, REST APIs, OpenAPI, Policy-as-Code, CI/CD*  
+<sub>Remote (Texas, U.S) | Oct. 2025 – Dec. 2025</sub>
 * Built a policy-as-code governance engine for REST APIs that ingests OpenAPI specs, runs 29 rules across key specification areas, and outputs violation reports plus a configured weighted compliance score via a review dashboard.
 * Integrated checks into CI/CD to validate every push/PR and block deploys on critical violations or score failures.
 * Achieved a ~13ms total runtime while validating 1,000+ APIs across 18 OpenAPI spec files (including Amazon, Adobe).
 
-IT HEALTHCARE SOLUTIONS | Full Stack Developer | Remote (London, U.K) |  (Dec. 2024 - Sept 2025)
+---
+
+### IT HEALTHCARE SOLUTIONS
+**Full Stack Developer** | *React.js, Node.js, Express.js, Socket.io, Finnhub API*  
+<sub>Remote (London, U.K) | Dec. 2024 – Sept. 2025</sub>
 * Sole engineer, collaborated with the founder to build a customer-centric full-stack stock market MVP from scratch in 5 months, implementing 10+ features and scaling it into a production-ready platform.
 * Implemented auth & session handling and built a dashboard covering 1,900+ LSE companies across 50+ metrics.
 * Integrated Finnhub API for LSE, developed a backend stock recommendation engine, developed stock search with detailed pages, and implemented real-time stock data updates via Socket.io to enable investor decisions.
 
-PARK-EZ | Full Stack Developer | Sonbhadra, U.P |  (July 2024 – Nov. 2024)
+---
+
+### PARK-EZ
+**Full Stack Developer** | *React.js, Node.js, ESP32, C++, Twilio, Razorpay*  
+<sub>Sonbhadra, U.P | July 2024 – Nov. 2024</sub>
 * Developed a fully automated smart parking system with real-time spot availability, OTP-based entry/exit, and cashless payments, improving utilization and reducing on-site manual operations.
 * Integrated hardware and software by connecting ESP32-based IR/ultrasonic sensors to the backend for near real-time occupancy synchronization, with OTP-based access via Twilio and seamless cashless payments through Razorpay.
 * Achieved 15–20 min faster spot finding, 10% less congestion, and 30% quicker checkout through dual-sensor fusion and overtime billing; research recognized and published by IEEE.
-  
-REACHIFY|  Full Stack Developer Intern | Delhi | (April 2024 - June 2024):
+
+---
+
+### REACHIFY
+**Full Stack Developer Intern** | *Python, Node.js, Express.js, React.js, Webhooks, REST APIs*  
+<sub>Delhi, India | April 2024 – June 2024</sub>
 * Built core backend for a CRM platform with webhook integrations (Instagram, Slack) to unify multi-channel messages in one inbox and streamline data management, boosting social workflows and efficiency by 25–30%.
 * Built the company landing page, enhancing brand presence and engagement.
 * Engineered a Python-based lead extractor, accelerating lead processing 3× to under 20 seconds and enhancing overall lead acquisition efficiency.
