@@ -11,7 +11,6 @@ Full-stack software developer with 1+ years of experience and a strong foundatio
 * Integrated Cashfree for subscription; implemented Analytics features for MF/PMS overlap via bar charts & Venn diagrams; shipped AI Reports (chat-based portfolio summaries vs benchmarks) and AI Vault (upload docs and ask questions on statements/KYC files).
 * Built Super Admin Ops Dashboard to track daily users, AUM, and investment activity by date range, plus listing pages for client buy/sell requests routed to assigned RM/Partner in admin; added impersonation so RMs/Partners can act as clients and execute orders.
 
----
 
 ### KINETIC AI
 **Software Engineer (Freelance)** | *Node.js, REST APIs, OpenAPI, Policy-as-Code, CI/CD*  
@@ -20,7 +19,6 @@ Full-stack software developer with 1+ years of experience and a strong foundatio
 * Integrated checks into CI/CD to validate every push/PR and block deploys on critical violations or score failures.
 * Achieved a ~13ms total runtime while validating 1,000+ APIs across 18 OpenAPI spec files (including Amazon, Adobe).
 
----
 
 ### IT HEALTHCARE SOLUTIONS
 **Full Stack Developer** | *React.js, Node.js, Express.js, Socket.io, Finnhub API*  
@@ -29,7 +27,6 @@ Full-stack software developer with 1+ years of experience and a strong foundatio
 * Implemented auth & session handling and built a dashboard covering 1,900+ LSE companies across 50+ metrics.
 * Integrated Finnhub API for LSE, developed a backend stock recommendation engine, developed stock search with detailed pages, and implemented real-time stock data updates via Socket.io to enable investor decisions.
 
----
 
 ### PARK-EZ
 **Full Stack Developer** | *React.js, Node.js, ESP32, C++, Twilio, Razorpay*  
@@ -38,7 +35,6 @@ Full-stack software developer with 1+ years of experience and a strong foundatio
 * Integrated hardware and software by connecting ESP32-based IR/ultrasonic sensors to the backend for near real-time occupancy synchronization, with OTP-based access via Twilio and seamless cashless payments through Razorpay.
 * Achieved 15–20 min faster spot finding, 10% less congestion, and 30% quicker checkout through dual-sensor fusion and overtime billing; research recognized and published by IEEE.
 
----
 
 ### REACHIFY
 **Full Stack Developer Intern** | *Python, Node.js, Express.js, React.js, Webhooks, REST APIs*  
