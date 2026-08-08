@@ -3,7 +3,13 @@
 Full-stack software developer with 1+ years of experience and a strong foundation in data structures, algorithms, and scalable systems. Developed production-ready platforms from scratch, including a full-stack stock market MVP covering 1,900+ London Stock Exchange companies with secure authentication, real-time updates, and backend recommendation engines.
 
 # Work Experience:
-KINETIC AI | Full Stack Developer | Remote (Texas, U.S) | Oct. 2025 - Dec. 2025 
+AUM CAPITAL MARKET PVT. LTD. | Full Stack Developer | React.js, Node.js, Express.js, MySQL, ChromaDB, AWS | Remote (Kolkata, India) | Feb. 2026 - Present 
+* Developed features for AUM Sampann, a digital wealth platform managing ₹10k+ Cr in client assets; also built the internal admin portal with role-based access (Super Admin, Admin, Partner, RM), client assignment, scoped dashboards, and family-member portfolio sharing.
+* Built Asset Holdings to track portfolios across 12+ asset classes (MF, Stocks, FD, AIF, PMS, etc.) and valuable Reports covering invested vs current value, XIRR/CAGR, unrealised P&L, sector/cap allocation, and Nifty 50/Sensex benchmark comparison and more.
+* Integrated Cashfree for subscription; implemented Analytics features for MF/PMS overlap via bar charts & Venn diagrams; shipped AI Reports (chat-based portfolio summaries vs benchmarks) and AI Vault (upload docs and ask questions on statements/KYC files).
+* Built Super Admin Ops Dashboard to track daily users, AUM, and investment activity by date range, plus listing pages for client buy/sell requests routed to assigned RM/Partner in admin; added impersonation so RMs/Partners can act as clients and execute orders.
+  
+KINETIC AI | Software Engineer (Freelance)  | Remote (Texas, U.S) | Oct. 2025 - Dec. 2025 
 * Built a policy-as-code governance engine for REST APIs that ingests OpenAPI specs, runs 29 rules across key specification areas, and outputs violation reports plus a configured weighted compliance score via a review dashboard.
 * Integrated checks into CI/CD to validate every push/PR and block deploys on critical violations or score failures.
 * Achieved a ~13ms total runtime while validating 1,000+ APIs across 18 OpenAPI spec files (including Amazon, Adobe).
