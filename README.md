@@ -1,6 +1,6 @@
 # Introduction:
 
-Full-stack software developer with 1+ years of experience and a strong foundation in data structures, algorithms, and scalable systems. Developed production-ready platforms from scratch, including a full-stack stock market MVP covering 1,900+ London Stock Exchange companies with secure authentication, real-time updates, and backend recommendation engines.
+Full-stack software engineer with ~2 years of experience building and shipping production web apps used by real users. I work across React/Next.js, Node.js, Express, SQL/NoSQL, and AWS, and I’ve delivered live product features end-to-end — including generative AI systems (LangGraph multi-agent assistants, RAG document Q&A, OCR pipelines), plus role-based admin/ops tools. I enjoy owning features from UI to APIs to production.
 
 # Work Experience:
 ### AUM CAPITAL MARKET PVT. LTD.
